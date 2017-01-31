@@ -14,9 +14,9 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>org.apache.tomcat</groupId>
-			<artifactId>tomcat-jasper</artifactId>
-			<version>[7.0.40]</version>
+			<groupId>Junit</groupId>
+			<artifactId>Junit</artifactId>
+			<version>4.0</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
