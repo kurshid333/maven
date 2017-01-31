@@ -31,7 +31,7 @@
 				<artifactId>tomcat-maven-plugin</artifactId>
 				<configuration>
 					<url>http://54.186.231.254:8081/manager</url>
-					<server>mytomcat</server>
+					<server>kurshid</server>
 					<path>/mywebapp</path>
 				</configuration>
 			</plugin>
